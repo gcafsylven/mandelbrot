@@ -1,4 +1,4 @@
-# mandelbrot
+# Mandelbrot zoom plotter
 A simple mandelbrot set explorer in Python
 
 Example 1 overview:
