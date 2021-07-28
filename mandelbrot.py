@@ -36,7 +36,6 @@ class Matrix:
     def update_x_y_center(self,x,y):
         self.x_center = Decimal(str(x))
         self.y_center = Decimal(str(y))
-        #print("new x: {}".format(x))
 
 
     def update_current_coordinates(self):
